@@ -1,6 +1,6 @@
 <div align="center">
 
-![Overthewire-4E656F](./assets/Logo.JPG "Overthewire-4E656F")
+![Overthewire-4E656F](./assets/OverTheWireLogo.JPG "Overthewire-4E656F")
 
 [OverTheWire.org](https://overthewire.org/wargames/)
 
