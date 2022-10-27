@@ -11,7 +11,7 @@ We are the 1%.</em>
 [OverTheWire](https://overthewire.org/wargames/) offers different <b>wargame</b> that can help beginner to <b>learn and pratice security concept</b> in form of fun-filled games.
 
 ## What is this Repository About?
-This Repository is [John4E656f](https://github.com/John4E656F) run through of [OverTheWire](https://overthewire.org/wargames/).
+This Repository is [John4E656f](https://github.com/John4E656F) run through of [OverTheWire](https://overthewire.org/wargames/). I'm very interested into cybersecurity and i will be working of this small learning project on my free time.
 
 ## What to Expect?
 This is an in-dept guide on how I solve Ovethewire games. Each Folder contains the Problem (from OverTheWire) my Solution:
